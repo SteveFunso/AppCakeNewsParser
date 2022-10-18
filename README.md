@@ -61,13 +61,13 @@ $ symfony server:start -d
 > **Note**
 > navigate to the site via the url generated in the console from the start command.
 
-## Download
+## Credentials
 
-Admin Credentials:
+Admin:
 Email: admin@example.com
 Password: pass123
 
-Moderator Credentials:
+Moderator:
 Email: moderator@example.com
 Password: pass123
 
