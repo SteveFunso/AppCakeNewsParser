@@ -41,9 +41,6 @@ $ git clone https://github.com/SteveFunso/AppCakeNewsParser.git
 # Go into the repository
 $ cd AppCakeNewsParser
 
-# Install dependencies
-$ php bin/console migrate
-
 # Migrate the db
 $ php bin/console migrate
 
